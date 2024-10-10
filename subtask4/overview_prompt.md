@@ -20,6 +20,9 @@ Building upon the Vim-like terminal text editor from previous subtasks, enhance 
    - Automatically open the default web browser when the preview command is executed.
    - Ensure the preview updates when the Markdown file is modified in the editor.
 
+5. **Visible Cursor**:
+   - Ensure the cursor position is visible in the terminal text editor.
+
 
 ## Implementation Details
 
